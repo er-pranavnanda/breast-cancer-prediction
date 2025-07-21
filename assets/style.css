@@ -1,0 +1,25 @@
+.css-j5r0tf {
+  padding: 1rem;
+  width: 100%;
+  border-radius: 1rem;
+  background-color: #7E99AB;
+}
+
+.css-ocqkz7 {
+    display: block;
+}
+
+
+.diagnosis {
+  color: #fff;
+  padding: 0.2em 0.5em;
+  border-radius: 0.5em;
+}
+
+.diagnosis.benign {
+  background-color: #01DB4B
+}
+
+.diagnosis.malignant {
+  background-color: #ff4b4b
+}
